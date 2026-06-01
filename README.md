@@ -9,6 +9,9 @@ This repository contains my cybersecurity challenge writeups, labs, and learning
 ### Cryptography
 - PIe Encryption (CYNX CTF)
 
+### Linux
+- LICTF-2022
+
 ## Author
 Mohd Afif Ammarhazim Bin Mohd Nazariee
 Cyber Security Student @ APU
